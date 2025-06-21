@@ -24,8 +24,14 @@ The system also supports specific scheduling logic for different test types and 
 ## 📸 SCREENSHOTS
 
 <p align="center">
-  <b> Welcome Screens</b>
+  <p> Welcome Screens</p>
   <img src="https://github.com/user-attachments/assets/507e639a-e832-48d2-835e-902041b379eb" width="300">
   <img src="https://github.com/user-attachments/assets/96252efc-ce10-47b4-945b-bd75708c1389" width="300">
   <img src="https://github.com/user-attachments/assets/ea1a1b87-f0de-467e-a5de-ae816a2c1d9a" width="300">
+</p>
+
+<p align="center">
+  <p> Create an account for patients and labs</p>
+  <img src="https://github.com/user-attachments/assets/d6ab6745-fc0b-4d8f-82ac-d82c21d5c87a" width="300">
+  <img src="https://github.com/user-attachments/assets/d8075c14-8bcb-4e9f-b8e6-6a548289c0fe" width="300">
 </p>
