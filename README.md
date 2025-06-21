@@ -38,11 +38,11 @@ The system also supports specific scheduling logic for different test types and 
 
 <p align="center">
   <p>Patient Home Screen</p>
-  <img src="https://github.com/user-attachments/assets/a0402236-41a5-4d41-951e-35a3ea2d3ee1" width="300">
+  <img src="https://github.com/user-attachments/assets/a0402236-41a5-4d41-951e-35a3ea2d3ee1" width="400">
   <p>Patient Appointments Screen</p>
-  <img src="https://github.com/user-attachments/assets/948db7f4-c1ba-4b6c-9307-64bd7a75d10e" width="300">
+  <img src="https://github.com/user-attachments/assets/948db7f4-c1ba-4b6c-9307-64bd7a75d10e" width="400">
   <p>Patient Profile Screen</p>
-  <img src="https://github.com/user-attachments/assets/8a552945-219c-4c54-946a-b8a73eaf1cf3" width="300">
+  <img src="https://github.com/user-attachments/assets/8a552945-219c-4c54-946a-b8a73eaf1cf3" width="400">
   <p>AI Assistant</p>
-  <img src="https://github.com/user-attachments/assets/4b8a2b07-1d02-4bd6-a9dc-f2b87c0c3e08" width="300">
+  <img src="https://github.com/user-attachments/assets/4b8a2b07-1d02-4bd6-a9dc-f2b87c0c3e08" width="400">
 </p>
