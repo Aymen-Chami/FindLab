@@ -24,5 +24,5 @@ The system also supports specific scheduling logic for different test types and 
 ## 📸 SCREENSHOTS
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a69588ce-0331-463a-b1e1-b0f2014a7e40" width="300">
+  <img src=![Image](https://github.com/user-attachments/assets/507e639a-e832-48d2-835e-902041b379eb) width="300">
 </p>
