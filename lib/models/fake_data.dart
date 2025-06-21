@@ -1,0 +1,86 @@
+// lib/models/fake_data.dart
+
+import 'package:findlab/models/appointment_data.dart';
+
+final List<Appointment> fakeAppointments = [
+  Appointment(
+    id: '1',
+    patientName: 'Patient',
+    testName: 'Radiographie',
+    date: 'Tue Mar 28',
+    time: '10:30',
+    status: 'En attente',
+  ),
+  Appointment(
+    id: '2',
+    patientName: 'Patient',
+    testName: 'Bilan lipidique',
+    date: 'Tue Mar 28',
+    time: '10:30',
+    status: 'Annulé',
+  ),
+  Appointment(
+    id: '3',
+    patientName: 'Patient',
+    testName: 'ECG',
+    date: 'Tue Mar 28',
+    time: '09:00',
+    status: 'Confirmé',
+  ),
+  Appointment(
+    id: '4',
+    patientName: 'Patient',
+    testName: 'IRM',
+    date: 'Tue Mar 28',
+    time: '10:30',
+    status: 'Terminé',
+  ),
+  Appointment(
+    id: '5',
+    patientName: 'Patient',
+    testName: 'Fonction rénale',
+    date: 'Tue Mar 28',
+    time: '10:30',
+    status: 'En attente',
+  ),
+  Appointment(
+    id: '6',
+    patientName: 'Patient',
+    testName: 'Fonction hépatique',
+    date: 'Tue Mar 28',
+    time: '10:30',
+    status: 'Annulé',
+  ),
+  Appointment(
+    id: '7',
+    patientName: 'Patient',
+    testName: 'Test de vitamine D',
+    date: 'Tue Mar 28',
+    time: '10:30',
+    status: 'Confirmé',
+  ),
+  Appointment(
+    id: '8',
+    patientName: 'Patient',
+    testName: 'Test de la thyroïde',
+    date: 'Tue Mar 28',
+    time: '10:30',
+    status: 'Terminé',
+  ),
+  Appointment(
+    id: '9',
+    patientName: 'Patient',
+    testName: 'Échographie',
+    date: 'Tue Mar 28',
+    time: '10:30',
+    status: 'En attente',
+  ),
+  Appointment(
+    id: '10',
+    patientName: 'Patitent',
+    testName: 'Radiographie',
+    date: 'Tue Mar 28',
+    time: '10:30',
+    status: 'Annulé',
+  ),
+];
