@@ -21,6 +21,8 @@ FindLab is a mobile application developed using Flutter that allows users to eas
 
 The system also supports specific scheduling logic for different test types and real-time management of lab availability, aiming to modernize and streamline the medical test booking experience.
 
-# SCREENSHOTS
+## 📸 SCREENSHOTS
 
-![Image](https://github.com/user-attachments/assets/507e639a-e832-48d2-835e-902041b379eb)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a69588ce-0331-463a-b1e1-b0f2014a7e40" width="300">
+</p>
